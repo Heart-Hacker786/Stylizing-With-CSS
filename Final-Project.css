@@ -1,0 +1,42 @@
+h1{
+  color: #FFFFFF;
+  font-size: 200%;
+}
+header{
+  background-color: #4C78EE!important;
+   text-align: center;
+}
+nav{
+  font-family: Arial,"Times New Roman",serif;
+  font-variant: small-caps;
+  font-size: 150%;
+  display: inline-block;
+  padding: 15px;
+}
+h2{
+  color: black;
+  font-family: Arial,fantasy;
+  background-color: #4C78EE;
+  color: #FFFFFF;
+  padding-left: 2%;
+}
+body{
+    background-color: #FFFFFF;
+    margin: 2%;
+}
+section{
+  display: inline-block;
+  width: 30%;
+  float: left;
+  margin: 1%;
+}
+footer{
+  clear: both;
+}
+img{
+  width: 75px;
+  display: inline-block;
+}
+p{
+  display: inline-block;
+}
