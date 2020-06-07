@@ -1,10 +1,11 @@
 h1{
+  font-family: Arial,fantasy;
   padding-top: 17px;
   color: #FFFFFF;
   font-size: 200%;
 }
 header{
-  background-color: #4C78EE!important;
+  background-color: #4C78EE;
    text-align: center;
 }
 nav{
@@ -29,7 +30,7 @@ section{
   display: inline-block;
   width: 30%;
   float: left;
-  margin: 1%;
+  margin: 1.5%;
 }
 footer{
   clear: both;
