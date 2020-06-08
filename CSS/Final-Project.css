@@ -41,7 +41,6 @@ img{
 }
 p{
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-    display: inline-block;
 }
 a{
   margin: 4px;
@@ -51,8 +50,13 @@ details{
 }
 ul{
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    padding-top: 8px;
 }
-div{
+.Bar{
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   font-size: 93%;
+  padding-top: 8px;
+}
+.lower{
+  display: inline-block;
 }
